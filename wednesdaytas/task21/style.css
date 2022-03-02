@@ -1,0 +1,11 @@
+#lolo{
+    border: 5px solid blue ;  
+}
+#meme{ border: 5px solid;
+    border-color: blue red yellow green;
+}
+
+#nono{
+    border: 5px solid green;
+    color: green;
+}

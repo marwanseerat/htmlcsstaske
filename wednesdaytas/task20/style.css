@@ -1,0 +1,36 @@
+h1{
+    color: deeppink; border-bottom: 5px dotted blueviolet;
+}
+h4{
+    color: rgb(143, 150, 156);
+}
+
+p{
+    text-align: left;
+}
+
+div{
+    width:70%;
+}
+h2{
+    font-style: italic;
+}
+body{
+    background-color: rgb(238, 228, 228);
+}
+
+p{
+    color: grey;
+}
+ul{
+    border:4px solid blueviolet;
+    width: 40%;
+    padding: 2%; 
+}
+
+span{
+    color: rgb(90, 153, 28);
+}
+#am{
+    color: chocolate;
+}
