@@ -1,0 +1,17 @@
+.mm{
+    display: none;
+   
+   
+
+}
+div{
+    display: inline-block;
+    background-color: red;
+    width: 100px;
+    height: 50px;
+    border: 3px solid black;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+
+}

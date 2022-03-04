@@ -1,0 +1,66 @@
+#g1{
+    background-color: green;
+    height: 560px;
+    width: 560px;
+
+}
+#g2{
+    background-color: yellow;
+    height: 500px;
+    width: 500px;
+    position: relative;
+    top: 5%;
+    bottom:5%;
+    left:5%;
+    right: 5%;
+}
+
+#g3{ background-color:green;
+    height: 450px;
+    width: 450px;
+    position: relative;
+    top: 5%;
+    bottom:5%;
+    left:5%;
+    right: 5%;
+
+}
+#g4{
+    background-color:yellow;
+    height:390px;
+    width: 390px;
+    position: relative;
+    top: 5%;
+    bottom:5%;
+    left:5%;
+    right: 10%;
+
+   
+
+}
+
+#g5{
+    background-color:green;
+    height:340px;
+    width: 340px;
+    position: relative;
+    top: 5%;
+    bottom:5%;
+    left:5%;
+    
+   
+   
+    
+}
+p{
+    text-align: center;
+    color: azure;
+    padding: 130px;
+    font-size: x-large;
+    font-weight: bolder;
+}
+
+
+
+
+

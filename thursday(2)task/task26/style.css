@@ -1,0 +1,16 @@
+div{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNkAONRpxNQQYTrGJ1wzvpcKRYpsKU4R_zpod7qFtYfAlcQwZNqeUNorf4jpWl5sLVW4U&usqp=CAU"
+    );
+    height:500px ;
+    width: 160px; ;
+    border: 1px solid black; 
+    float: right;
+    position: fixed;
+    top:40px ;
+}
+
+aside{
+    height: 100px;
+    width:150px ;
+    float: right;
+}
