@@ -1,0 +1,57 @@
+.parent{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    border: 15px solid orange;
+    width: 1000px;
+    height: 500px;
+    
+}
+
+.parent div{
+    width: 250px;
+    height: 150px;
+    color: white;
+    font-size: 600%;
+    padding-top: 17px;
+    text-align: center;}
+    
+
+
+
+#d1{
+    background-color: aquamarine;
+
+}
+#d2{
+   background-color: rgb(63, 63, 209); 
+}
+#d3{
+   background-color: plum; 
+}
+#d4{
+   background-color: rgb(73, 70, 70); 
+}
+#d5{
+    background-color: darkkhaki;
+}
+
+#d6{
+   background-color: coral; 
+}
+
+#d7{
+   background-color: red; 
+}
+
+#d8{
+    background-color: cadetblue;
+}
+
+#d9{
+   background-color: greenyellow; 
+}
+
+#d10{
+    background-color: lawngreen;
+}
