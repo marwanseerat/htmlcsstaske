@@ -1,0 +1,38 @@
+.header-container{
+    background-color: rgb(241, 237, 237);
+   height: 300px;
+    padding: 50px 0;
+}
+.warning{
+    border-radius: 10px;
+    margin: 20px;
+}
+.warning p{
+    display: inline-block;
+}
+.warning button {
+    float: right;
+    background-color: transparent;
+    border: none;
+    font-size: 27px;
+}
+
+.heading1,
+.heading2,
+.heading3 {
+    display:inline-block;
+    width: 27%;
+    margin: 10px;
+}
+
+.heading1 button,
+.heading2 button,
+.heading3 button {
+    border: 1px solid black;
+}
+
+.heading1 button span,
+.heading2 button span ,
+.heading3 button span {
+    padding: 10px;
+}

@@ -1,0 +1,43 @@
+.container{
+    padding: 10px;
+}
+
+
+.g1{
+    background-color: gray;
+  height: 50px;
+}
+.b1{
+    background-color: blue;
+    height: 200px;
+}
+.b2{
+    background-color: aqua;
+    height: 200px;
+}
+
+.y1,
+.y2,
+.y3{
+    background-color: yellow;
+  height: 200px;
+}
+.b3{
+    background-color: aqua;
+    height: 200px;
+}
+.b4{
+    background-color: blue;
+    height: 200px;
+}
+.o1,
+.o2,
+.o3,
+.o4{
+    background-color: chocolate;
+   height: 150px;
+}
+
+
+
+

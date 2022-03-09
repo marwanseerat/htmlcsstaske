@@ -1,0 +1,31 @@
+.red{
+    font-size: large;
+    padding: 30px;
+}
+.yello{
+    font-size:medium;
+    padding: 20px;
+    color: white;
+}
+
+.green{
+    font-size:small;
+    padding: 10px;
+}
+
+.small-container{
+    margin-top: 40px;
+    margin-left: 40px;
+}
+
+.rd{
+    font-size: large;
+    padding: 15px; 
+    color: white;
+}
+
+.yw{
+    font-size: medium;
+    padding: 10px;
+    color: white;
+}

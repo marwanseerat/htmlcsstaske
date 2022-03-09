@@ -1,0 +1,18 @@
+.table{
+    position: relative;
+    left:25%;
+    margin-top: 50px;
+    width: 50%;
+}
+.pink td{
+    background-color: rgb(233, 123, 178);
+    border: 1px solid rgb(199, 96, 113);
+}
+.peach td{
+    background-color: peachpuff;
+    border:1px solid rgb(209, 141, 82);
+}
+.blue td{
+    background-color: rgb(14, 118, 216);
+   border:1px solid rgb(76, 76, 187); 
+}

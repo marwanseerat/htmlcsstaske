@@ -3,6 +3,7 @@ body{
     margin: 0%;
 }
 header{
+    text-align: center;
     background-color: rgb(211, 211, 72);
     height: 80px;
     width: 1030px;
