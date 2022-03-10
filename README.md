@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ### Hi there 👋,  my name is marwa nseerat,
 #### I am full stack developer
@@ -13,3 +14,6 @@ Skills:  HTML / CSS
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/marwa-nseerat-/)  
 ![my pic](./c7c11b80-4602-4d61-9e9c-0dce4cf20a19.jpg)
 
+=======
+
+>>>>>>> origin
